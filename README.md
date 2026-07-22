@@ -1,9 +1,3 @@
-Online Recruitment Fraud (ORF) Detection — Environments & Dependencies
-
-> Sistem cerdas untuk mendeteksi lowongan pekerjaan palsu (*Online Recruitment Fraud*) berbahasa Indonesia. Memadukan model **IndoBERT**, teknik **Feature Fusion** metadata (pada notebook eksperimen), serta implementasi **Explainable AI (XAI)** berbasis SHAP untuk transparansi hasil deteksi.
-
----
-
 ## 📁 Struktur Proyek
 
 ```text
